@@ -1,6 +1,6 @@
 using System;
 
-namespace ProgrammingHub
+namespace PyramidPattern
 {
     class Pyramid
     {
